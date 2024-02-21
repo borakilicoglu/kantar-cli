@@ -1,6 +1,6 @@
 # kantar-cli
 
-![Kantar CLI ASCII Art](https://jumpshare.com/embed/HROQoMVrsiXDDbvF4YLg)
+![Kantar CLI ASCII Art](https://i.imgur.com/UqbyyMq.jpeg)
 
 Kantar CLI is a cutting-edge command-line interface tool designed for cryptocurrency enthusiasts and traders who seek real-time insights into market trends and trading signals. 
 
